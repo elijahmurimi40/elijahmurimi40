@@ -1,7 +1,9 @@
+<!--
 ### Hey there 👋. I am using Github :smirk:
+-->
 
 <h2 align="center">
-    Hey there 👋. I am using Github :smirk:
+    Hey there 👋. I am using Github :smirk:.
 </h2>
   
 <p align="center">
@@ -22,7 +24,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1></h1>
 
+### Find my stuff here
+
+- :file_folder: Portfolio:
+- :books: Blog: 
+- :camera: Photograpghy:
 - 🌱 I’m currently learning TensorFlow <img src="https://cdn.svgporn.com/logos/tensorflow.svg" alt="tensorflow" height="20px" width="20px" />.
 - ⚡ Fun fact: I'm also a Card Manipulator who creates effects using sleight of hands technique and a little Mentalism too. 
 
