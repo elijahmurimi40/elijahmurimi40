@@ -26,11 +26,15 @@ Here are some ideas to get you started:
 -->
 <h1></h1>
 
+A Software Developer who specializes in Android and JavaScript Development across the whole stack. Powered by me, figma, coffee and VS Code or Android Studio. if I'm not coding, you'll find me with a DSLR camera.
+
+<h1></h1>
+
 ### Find my stuff here
 
 - :file_folder: Portfolio:
 - :books: Blog: 
-- :camera: Photograpghy:
+- :camera: Photography:
 - 🌱 I’m currently learning TensorFlow <img src="https://cdn.svgporn.com/logos/tensorflow.svg" alt="tensorflow" height="20px" width="20px" />.
 - ⚡ Fun fact: I'm also a Card Manipulator who creates effects using sleight of hands technique and a little Mentalism too. 
 
