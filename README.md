@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 -->
 <h1></h1>
 
-A Software Developer who specializes in Android and JavaScript Development across the whole stack. Powered by me, figma, coffee and VS Code or Android Studio. if I'm not coding, you'll find me with a DSLR camera.
+I'm a Software Developer who specializes in Android and JavaScript Development across the whole stack. Powered by me, figma, coffee and VS Code or Android Studio. if I'm not coding, you'll find me with a DSLR camera.
 
 <h1></h1>
 
