@@ -36,7 +36,7 @@ I'm a Software Developer who specializes in Android and JavaScript Development a
 
 ### Find my stuff here
 
-- :globe_with_meridians: Portfolio: <a href='elijahmurimi.dev' target='_blank'>elijahmurimi.dev</a>
+- :globe_with_meridians: Portfolio: <a href='https://elijahmurimi.dev' target='_blank'>elijahmurimi.dev</a>
 - 🌱 I’m currently learning TensorFlow <img src="https://cdn.svgporn.com/logos/tensorflow.svg" alt="tensorflow" height="20px" width="20px" />.
 - ⚡ Fun fact: I'm also a Card Manipulator who creates effects using sleight of hands technique and a little Mentalism too. 
 
