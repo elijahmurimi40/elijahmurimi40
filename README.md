@@ -35,6 +35,7 @@ I'm a Software Developer who specializes in Android and JavaScript Development a
 <h1></h1>
 
 ### Find my stuff here
+<a href="https://example.com" onclick="window.open(this.href,'_blank');return false;">Click here to open link in a new tab</a>
 
 - :globe_with_meridians: Portfolio: <a href='https://elijahmurimi.dev' target='_blank'>elijahmurimi.dev</a>
 - 🌱 I’m currently learning TensorFlow <img src="https://cdn.svgporn.com/logos/tensorflow.svg" alt="tensorflow" height="20px" width="20px" />.
