@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 -->
 <!--<h1></h1> -->
 
-I'm a Software Developer who specializes in Android and JavaScript Development across the whole stack. Powered by me, figma, coffee and VS Code or Android Studio. if I'm not coding, you'll find me with a DSLR camera.
+I've been enjoying Android development since I wrote my first "Hello World" app. The sheer thrill of crafting intuitive mobile experiences, coupled with the robustness of Java and the elegance of Kotlin, has ignited a passion that makes me want to leave the web development ecosystem behind for good.
+
+Python, my trusted ally, weaves elegance into scripts, tackling everything from data manipulation to automation with finesse.
 
 <h1></h1>
 
