@@ -6,9 +6,9 @@
     Hey there 👋. I am using Github :smirk:.
 </h2>
   
-<p align="center">
+<!-- <p align="center">
   <img src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="500px" alt="elijahmurimi40">
-</p>
+</p> -->
 
 <!--
 **elijahmurimi40/elijahmurimi40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
