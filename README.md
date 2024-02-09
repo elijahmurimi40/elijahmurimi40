@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 
 I've been enjoying Android development since I wrote my first "Hello World" app. The sheer thrill of crafting intuitive mobile experiences, coupled with the robustness of Java and the elegance of Kotlin, has ignited a passion that makes me want to leave the web development ecosystem behind for good.
 
-Python, my trusted ally, weaves elegance into scripts, tackling everything from data manipulation to automation with finesse.
+Python, my trusted ally, continues to stand by my side, weaving elegance into scripts and tackling everything from data manipulation to automation with finesse.
+
+JavaScript, beyond being a language of dynamic interactivity, has been my trusted companion on a parallel journey, where its versatility became the canvas for mastering data structures and algorithms.
 
 <h1></h1>
 
