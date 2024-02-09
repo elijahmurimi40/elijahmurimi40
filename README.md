@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - :books: Blog: 
 - :camera: Photography:
 -->
-<h1></h1>
+<!--<h1></h1> -->
 
 I'm a Software Developer who specializes in Android and JavaScript Development across the whole stack. Powered by me, figma, coffee and VS Code or Android Studio. if I'm not coding, you'll find me with a DSLR camera.
 
