@@ -46,10 +46,15 @@ JavaScript, beyond being a language of dynamic interactivity, has been my truste
 
 ### Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijahmurimi40&layout=compact" alt="elijahmurimi40"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=elijahmurimi40&show_icons=true&hide=issues,contribs" alt="elijahmurimi40"/>
-</p>
+</p> -->
+
+<p align="center">
+  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijahmurimi40&layout=compact" alt="elijahmurimi40"/> -->
+  <img height="165" src="https://github-readme-stats-elijahmurimi40.vercel.app/api?username=elijahmurimi40&show_icons=true" alt="elijahmurimi40"/>
+</p> 
 
 <p align="center">
   <img src="https://cdn.svgporn.com/logos/android-icon.svg" alt="android" height="40px" width="40px" />
