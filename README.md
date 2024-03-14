@@ -58,8 +58,8 @@ JavaScript, beyond being a language of dynamic interactivity, has been my truste
 
 <p align="center">
   <img src="https://cdn.svgporn.com/logos/android-icon.svg" alt="android" height="40px" width="40px" />
+  <img src="https://cdn.svgporn.com/logos/python.svg" alt="python" height="40px" width="40px" />
   <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" height="40px" width="40px" />
-  <img src="https://cdn.svgporn.com/logos/react.svg" alt="reactjs" height="40px" width="40px" />
   <img src="https://cdn.svgporn.com/logos/php.svg" alt="php" height="40px" width="40px" />
 </p>
 
