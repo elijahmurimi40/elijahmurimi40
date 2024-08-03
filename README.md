@@ -52,8 +52,8 @@ JavaScript, beyond being a language of dynamic interactivity, has been my truste
 </p> -->
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-orcin-psi.vercel.app/api/top-langs/?username=elijahmurimi40&layout=compact" alt="elijahmurimi40"/>
-  <img height="165" src="https://github-readme-stats-orcin-psi.vercel.app/api?username=elijahmurimi40&show_icons=true" alt="elijahmurimi40"/>
+  <img height="165" src="https://github-readme-stats-htiy-elijahmurimi40s-projects.vercel.app/api/top-langs/?username=elijahmurimi40&layout=compact" alt="elijahmurimi40"/>
+  <img height="165" src="https://github-readme-stats-htiy-elijahmurimi40s-projects.vercel.app/api?username=elijahmurimi40&show_icons=true" alt="elijahmurimi40"/>
 </p> 
 
 <p align="center">
